@@ -23,7 +23,7 @@
 #### > Run : `python2 Rwani.py`
 
 #### USERNAME : `Rps`
-#### PASSWORD : `Rps`
+#### PASSWORD : Rps`
 
 
 ## Single Command :
