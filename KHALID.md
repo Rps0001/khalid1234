@@ -20,10 +20,10 @@
 * `git clone https://github.com/htr-tech/afgcrack.git`
 * `cd afgcrack`
 
-#### > Run : `python2 crack.py`
+#### > Run : `python2 Rwani.py`
 
-#### USERNAME : `cra3k`
-#### PASSWORD : `htrtech`
+#### USERNAME : `Rps`
+#### PASSWORD : `Rps`
 
 
 ## Single Command :
